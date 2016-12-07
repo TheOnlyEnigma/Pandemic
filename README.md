@@ -3,9 +3,12 @@
 
 A model created using the GIS extension in Netlogo to show the spread of a disease through the world's population
 
+
+
 ## Getting Started
 
-The only file that is needed to work the model is...
+The only file that is needed to work the model is **Finished.nlogo**
+
 
 
 ## Prerequisities and Installing
@@ -22,16 +25,44 @@ _/Program Files/NetLogo 5.3.1/app/models/Code Examples/GIS/data/_
 This file should contain a number of files including shape files, however the ones of 
 importance for this project is the *WGS_84_Geographic*, *cities.shp* and *countries.shp*
 
+
+
 ## Running the Model
+
+To begin running the model first open **Finished.nlogo**  
+
+Then make sure the interface is selected (not info and code) and then follow the following instructions to to run the model.
+
+**1.** Press _setup button_ and wait for map, and map colour to load  
+**2.** Press _setup-turtles_ button, which should create a random number of turtles within the landmasses of the world map  
+**3.** Press go button to then run model
+
+# Other Options
+
+- **Infectiousness** :
+- **Duration** :
+- **Chance-recover** :
+
+- **display-countries** :
+- **label-countries** :
+- **display-cities** :
+- **label-countries** :
+
+_**IMPORTANT: It should be noted that the speed of the model may need to be adjusted so that the user can see the spread of the infection**_
+
 
 
 ## Built With
 
 Netlogo version 5.3.1
 
+
+
 ## Authors
 
 The Only Enigma
+
+
 
 ## License
 
@@ -39,11 +70,8 @@ The Only Enigma
  
  -- Copyright Notice --
 
-
- Copyright (c) Hannah J. Constable
  This software is licensed under the 'Open Source License, version 1.0 (OSL-1.0)
- which can be found at the Open Source Intiative website at...
+ which can be found at the Open Source Intiative website at...  
 https://opensource.org/licenses/OSL-1.0
-
 
 -- End of Copyright Notice --
