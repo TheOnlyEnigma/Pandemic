@@ -470,10 +470,10 @@ ticks
 30.0
 
 BUTTON
-786
-122
-925
-155
+785
+169
+924
+202
 NIL
 display-cities
 NIL
@@ -504,10 +504,10 @@ NIL
 1
 
 SWITCH
-787
-177
-924
-210
+786
+220
+923
+253
 label-cities
 label-cities
 1
@@ -614,15 +614,32 @@ NIL
 1
 
 SWITCH
-785
-73
-924
-106
+784
+119
+923
+152
 label-countries
 label-countries
 1
 1
 -1000
+
+BUTTON
+784
+69
+924
+102
+NIL
+display-countries
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
 
 @#$#@#$#@
 ## WHAT IS IT?
