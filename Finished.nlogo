@@ -470,23 +470,6 @@ ticks
 30.0
 
 BUTTON
-785
-169
-924
-202
-NIL
-display-cities
-NIL
-1
-T
-OBSERVER
-NIL
-NIL
-NIL
-NIL
-0
-
-BUTTON
 5
 12
 175
@@ -504,10 +487,10 @@ NIL
 1
 
 SWITCH
-786
-220
-923
-253
+785
+169
+922
+202
 label-cities
 label-cities
 1
