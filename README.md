@@ -39,14 +39,13 @@ Then make sure the interface is selected (not info and code) and then follow the
 
 # Other Options
 
-- **Infectiousness** :
-- **Duration** :
-- **Chance-recover** :
-
-- **display-countries** :
-- **label-countries** :
-- **display-cities** :
-- **label-countries** :
+- **Infectiousness** : A slider that allows the user to set how infectious the disease is
+- **Duration** : A slider that allows the user to change the duration
+- **Chance-recover** : A slider that allows a user to change the time it takes for the turtles to recover
+- **display-countries** : Will display countries separately from the setup
+- **label-countries** : Will label the countries, however will only function when display_countries is in use
+- **display-cities** : Will display majour cities around the world as long display_countries or setup is in use
+- **label-countries** : Will label the cities as long as display_cities is in use
 
 _**IMPORTANT: It should be noted that the speed of the model may need to be adjusted so that the user can see the spread of the infection**_
 
