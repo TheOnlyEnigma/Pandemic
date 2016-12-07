@@ -309,7 +309,7 @@ end
 
 to setup-constants
 
-; 71 times 52 weeks = 50 years = 2600 weeks old
+; 71 times 52 weeks = 71 years
 ; This lifespan has been chosen because this is the average
 ; global life expectancy
 
@@ -340,7 +340,7 @@ to go
     ifelse sick? [ infect ] [ reproduce ]
   ]
 
-; updates flobal variables and displays
+; updates global variables and displays
 
   update-global-variables
   update-display
